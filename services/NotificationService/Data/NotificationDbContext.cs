@@ -1,4 +1,5 @@
 using MongoDB.Driver;
+using NotificationService.Models;
 
 public class NotificationDbContext0015
 {

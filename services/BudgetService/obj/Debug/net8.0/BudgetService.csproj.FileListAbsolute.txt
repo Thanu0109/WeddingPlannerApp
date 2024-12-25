@@ -1,0 +1,8 @@
+D:\GitHub\WeddingPlannerApp\services\BudgetService\obj\Debug\net8.0\BudgetService.csproj.AssemblyReference.cache
+D:\GitHub\WeddingPlannerApp\services\BudgetService\obj\Debug\net8.0\BudgetService.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\WeddingPlannerApp\services\BudgetService\obj\Debug\net8.0\BudgetService.AssemblyInfoInputs.cache
+D:\GitHub\WeddingPlannerApp\services\BudgetService\obj\Debug\net8.0\BudgetService.AssemblyInfo.cs
+D:\GitHub\WeddingPlannerApp\services\BudgetService\obj\Debug\net8.0\BudgetService.csproj.CoreCompileInputs.cache
+D:\GitHub\WeddingPlannerApp\services\BudgetService\obj\Debug\net8.0\BudgetService.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\WeddingPlannerApp\services\BudgetService\obj\Debug\net8.0\BudgetService.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\WeddingPlannerApp\services\BudgetService\obj\Debug\net8.0\BudgetService.sourcelink.json

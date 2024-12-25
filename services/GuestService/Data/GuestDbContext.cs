@@ -1,4 +1,5 @@
 using MongoDB.Driver;
+using GuestService.Models;
 
 public class GuestDbContext0015
 {

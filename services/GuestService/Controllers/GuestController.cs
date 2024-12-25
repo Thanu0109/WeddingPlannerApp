@@ -1,3 +1,4 @@
+using GuestService.Models;
 public class GuestController0015 : ControllerBase
 {
     private readonly GuestDbContext0015 _dbContext;

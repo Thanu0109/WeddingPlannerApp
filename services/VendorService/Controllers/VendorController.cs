@@ -1,3 +1,4 @@
+using VendorService.Models;
 [ApiController]
 [Route("api/[controller]")]
 public class VendorController0015 : ControllerBase

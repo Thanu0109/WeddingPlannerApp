@@ -1,4 +1,5 @@
 using MongoDB.Driver;
+using TaskService.Models;
 
 public class TaskDbContext0015
 {
