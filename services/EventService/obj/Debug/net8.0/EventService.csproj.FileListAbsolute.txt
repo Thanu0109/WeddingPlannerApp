@@ -1,0 +1,7 @@
+D:\GitHub\WeddingPlannerApp\services\EventService\obj\Debug\net8.0\EventService.csproj.AssemblyReference.cache
+D:\GitHub\WeddingPlannerApp\services\EventService\obj\Debug\net8.0\EventService.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\WeddingPlannerApp\services\EventService\obj\Debug\net8.0\EventService.AssemblyInfoInputs.cache
+D:\GitHub\WeddingPlannerApp\services\EventService\obj\Debug\net8.0\EventService.AssemblyInfo.cs
+D:\GitHub\WeddingPlannerApp\services\EventService\obj\Debug\net8.0\EventService.csproj.CoreCompileInputs.cache
+D:\GitHub\WeddingPlannerApp\services\EventService\obj\Debug\net8.0\EventService.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\WeddingPlannerApp\services\EventService\obj\Debug\net8.0\EventService.MvcApplicationPartsAssemblyInfo.cache
