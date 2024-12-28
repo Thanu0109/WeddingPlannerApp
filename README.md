@@ -35,6 +35,6 @@ The application is built with the following technologies:
 - Send reminders and notifications about tasks and events.
 
 ## Project Structure
-The project follows a modular microservices architecture, and the directory structure is organized as follows:
+The project follows a modular microservices architecture.
 
 
